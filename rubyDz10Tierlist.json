@@ -1,0 +1,474 @@
+{
+  "roles": [
+    {
+      "role": "Main DPS",
+      "description": "Main Boss Killer. Responsible for making sure the boss dies."
+    },
+    {
+      "role": "Sub DPS",
+      "description": "Secondary Boss Killer (if needed). Helps ease the power requirement of main DPS."
+    },
+    {
+      "role": "Waveclear",
+      "description": "Main solution to everything that isn't the boss."
+    },
+    {
+      "role": "Sub Waveclear",
+      "description": "Secondary solution to everything not the boss. Helps cover more ground or deal with especially annoying spawns."
+    },
+    {
+      "role": "Hypercarry",
+      "description": "Main DPS + Waveclearer. Aims to handle everything."
+    },
+    {
+      "role": "Amp",
+      "description": "Damage amplifier, increase damage dealt by DPS/Hypercarry/Waveclearer. Often replaceable."
+    },
+    {
+      "role": "Enabler",
+      "description": "Specific synergy or combo facilitator. Often not replaceable."
+    }
+  ],
+  "difficulty": [
+    "Straight forward team. Minimal micro or game knowledge required.",
+    "Somewhat unintuitive routing setups should be expected.",
+    "Animation Cancelling should be expected.",
+    "Very unintuitive routing setups should be expected ",
+    "Syncronized Animation Cancelling and/or tight execution windows, in addition to potential game knowledge checks should be expected."
+  ],
+  "introLeft": "This tier list is intended to be used as an overview for the comps used in the current Dark Zone season. The core members of a comp have been ranked based off of their sole capabilities. When combined with other flex options, the tier may change.\nLimited Sinners have not been added as a flex option due to their rarity and strength as they are likely to overshadow the main compositions and alter how they are used. It is assumed that they will almost always be a good option to use if you have them.",
+  "introRight": "Multiple core compositions can, and should sometimes, also be used together (i.e. The bleed team can be used with Deren), but for the purposes of this ranking, the core compositions are ranked separately.\n Other Sinners can also be used as Flex options.\nAll Sinners are at maximum recommended investment. Check Sinner pages for recommendations.",
+  "tags": [
+    {
+      "tag": "S1",
+      "description": "Specific shackles on a sinner. Otherwise S-Ranks are S0, A & B-Ranks are S5."
+    },
+    {
+      "tag": "$",
+      "description": "Low investment, is effective already at P2."
+    }
+  ],
+  "categories": [
+    {
+      "name": "physical",
+      "img": "/assets/rubyDzTierlist/physical-bg.jpg"
+    },
+    {
+      "name": "magic",
+      "img": "/assets/rubyDzTierlist/magical-bg.jpg"
+    },
+    { "name": "flex", "img": "/assets/rubyDzTierlist/flex-bg.jpg" }
+  ],
+  "tiers": [
+    {
+      "rank": "S",
+      "color": "hsl(0,90%,26%)",
+      "description": "Exceeds the stage requirements"
+    },
+    {
+      "rank": "A",
+      "color": "hsl(28,100%,40%)",
+      "description": "Meets the stage requirements"
+    },
+    {
+      "rank": "B",
+      "color": "hsl(315,90%,29%)",
+      "description": "Barely meets the stage requirements"
+    },
+    {
+      "rank": "C",
+      "color": "hsl(175,55%,30%)",
+      "description": "Needs a bit of support"
+    },
+    {
+      "rank": "D",
+      "color": "hsl(225,75%,40%)",
+      "description": "Needs a lot of support"
+    }
+  ],
+  "teams": [
+    {
+      "rank": "S",
+      "name": "Base Comp",
+      "type": "physical",
+      "difficulty": 3,
+      "sinners": [
+        { "id": "nox", "tag": "Waveclear" },
+        { "id": "labyrinth", "tag": "Yes" },
+        { "id": "flex", "tag": "Sub DPS" }
+      ],
+      "note": "Nox can handle all the waveclearing this time around, and together with Laby they practically solo the entire boss' HP bar.",
+      "pro": "Cheap and easily upgradeable",
+      "con": "Laby Chain Routing (Look on YT if unsure)",
+      "flex": [
+        { "id": "mrfox" },
+        { "id": "che", "budget": true },
+        { "id": "baiyi", "budget": true },
+        { "id": "enfer" },
+        { "id": "cabernet" },
+        { "id": "hamel" },
+        { "id": "donald" },
+        { "id": "mess" },
+        { "id": "zoya" },
+        { "id": "mantis" },
+        { "id": "adela" },
+        { "id": "tetra" },
+        { "id": "pricilla" },
+        { "id": "flora" },
+        { "id": "matilda" },
+        { "id": "corso" }
+      ],
+      "flexNote": "Add additional corebreak to set-up a Laby chain (preferably they also amp like Cab, Enfer, Che etc.)<br/><br/>Then just fill out the squad with another DPS for comfort (anything from Deren to Corso to Adela works here), or even more amp (such as Mr. Fox). The remaining requirements are so low, practically anything works."
+    },
+    {
+      "rank": "S",
+      "name": "Bleed",
+      "difficulty": 1,
+      "type": "physical",
+      "sinners": [
+        { "id": "dreya", "tag": "Hypercarry", "shackles": "S0" },
+        { "id": "sumire", "tag": "Enabler" },
+        { "id": "levy", "tag": "Enabler" },
+        { "id": "pepper", "tag": "Enabler", "note": "Recommended" }
+      ],
+      "note": "The all in one package. Amazing boss killing potential (Dreya ults), and waveclearing capabilities (Dreya ECB), only \"concern\" is breaks (hi Laby).",
+      "pro": "S.",
+      "con": "\"Expensive\"",
+      "flex": [
+        { "id": "labyrinth" },
+        { "id": "donald" },
+        { "id": "nox" },
+        { "id": "che", "budget": true },
+        { "id": "mrfox", "budget": true },
+        { "id": "mcqueen" },
+        { "id": "cabernet" },
+        { "id": "enfer" },
+        { "id": "hamel" },
+        { "id": "dudu" }
+      ],
+      "flexNote": "Add an almost \"mandatory\" Laby or Donald for corebreak purposes.<br/><br/>Last slot can any amp, Enfer is highly recommended.<br/><br/>Can also just add a DPS such as Mantis if you have that."
+    },
+    {
+      "rank": "S",
+      "name": "Deren Hypercarry",
+      "difficulty": 1,
+      "type": "physical",
+      "sinners": [
+        { "id": "nox", "tag": "Waveclear" },
+        { "id": "deren", "tag": "Main DPS", "shackles": "S1" },
+        { "id": "owo", "tag": "Amp" }
+      ],
+      "note": "Team will naturally be able to function without OwO, but the Crit Rate and ATK/DMG Amps are annoying to pass up on.",
+      "pro": "Deren.",
+      "con": "Limited Sinner.",
+      "flex": [
+        { "id": "labyrinth" },
+        { "id": "mantis" },
+        { "id": "enfer" },
+        { "id": "lynn", "budget": true },
+        { "id": "mcqueen" },
+        { "id": "cabernet" },
+        { "id": "mrfox" },
+        { "id": "che", "budget": true }
+      ],
+      "flexNote": "This team can be filled with pretty much anything, highly recommended to add ampers such as Enfer or Cabernet (which will also fill out your breaks).<br/>Also, additional DPS never hurt so if you have Mantis or a Laby you can let chain ult, you can slap her on as well for an effective second Deren on the team."
+    },
+    {
+      "rank": "S",
+      "name": "Coquelic",
+      "type": "physical",
+      "difficulty": 1,
+      "sinners": [
+        { "id": "coquelic", "tag": "Main DPS", "shackles": "S0" },
+        { "id": "ladypearl", "tag": "Waveclear<br/>Enabler" },
+        { "id": "pricilla", "tag": "Sub DPS<br/>Enabler" }
+      ],
+      "note": "Pearl is an amazing addition to the Coq team, as the waveclear is now much more reliable and she brings 2x much needed breaks, both of which were problems before (waveclear moreso than breaks cuz Laby).",
+      "pro": "True Damage, Insane Boss Damage",
+      "con": "",
+      "flex": [
+        { "id": "labyrinth" },
+        { "id": "donald" },
+        { "id": "enfer" },
+        { "id": "cabernet" },
+        { "id": "owo" },
+        { "id": "dudu" },
+        { "id": "che", "budget": true },
+        { "id": "hamel" },
+        { "id": "matilda" }
+      ],
+      "flexNote": "Look for utility in rounding out the team, anything which amps, especially AOE amp, is gonna be very welcome (Cabernet, Hamel, Che, Enfer, Dudu, etc.). Naturally, make sure you have enough breaks (Laby / Donald).<br/><br/>I would only look to add Matilda in the event you don't have Pearl, and even then, Matilda cannot replace the waveclearing capabilities Pearl offers, but only alleviate the corebreak concerns, while still funneling a respectable amount of damage into Coq."
+    },
+    {
+      "rank": "S",
+      "name": "Konosuba Collab (EXPLOSIIIIIIIION)",
+      "type": "physical",
+      "difficulty": 2,
+      "sinners": [
+        { "id": "nox", "tag": "Sub-waveclear" },
+        { "id": "mcqueen", "tag": "Waveclear" },
+        { "id": "rahu", "tag": "Enabler" }
+      ],
+      "note": "Moved up from A, due to boss being much easier to kill this time around. (Thanks Laby)",
+      "pro": "Simple to play",
+      "con": "",
+      "flex": [
+        { "id": "labyrinth" },
+        { "id": "eve" },
+        { "id": "hamel" },
+        { "id": "che", "budget": true },
+        { "id": "donald", "budget": true },
+        { "id": "lamia" }
+      ],
+      "flexNote": "Add Laby because she is broken on this boss (if you let her chain ultis).<br/><br/>Damage taken amps are your best friend (Che, Hamel, Heartache CB etc.)<br/><br/>S1 Eve is also absolutely amazing, and should be a strong consideration if you have her (S0 is more compareable to other options).<br/><br/>Donald + Lamia are a package deal. To this end, it's fine leaving Donald at P2, since we just need him to apply Electrocution, and allow McQueen to maximize the number of ults she gets during the break.<br/><br/>Demon & Demolia both serve as useable downgrades to Rahu."
+    },
+    {
+      "rank": "S",
+      "name": "Shalom Hypercarry",
+      "type": "magic",
+      "difficulty": 1,
+      "sinners": [
+        { "id": "shalom", "tag": "Hypercarry" },
+        { "id": "flex", "tag": "Amp" },
+        { "id": "flex", "tag": "Amp" }
+      ],
+      "note": "Shalom being Shalom.<br/><br/> The remaining slots can be filled with virtually any meta supports. However, it's also completely fine to slap on something like 2L, since that's a 28% damage taken increase, in addition to helping out with waveclearing and boss killing for ease of play.",
+      "pro": "Windshield Wiper",
+      "con": "Limited Sinner",
+      "flex": [
+        { "id": "cabernet" },
+        { "id": "enfer" },
+        { "id": "joan", "budget": true },
+        { "id": "dudu" },
+        { "id": "raven" },
+        { "id": "owo" },
+        { "id": "mrfox" },
+        { "id": "luviaray" },
+        { "id": "lamia" },
+        { "id": "ladypearl" },
+        { "id": "hecate", "budget": true },
+        { "id": "labyrinth", "budget": true },
+        { "id": "che", "budget": true }
+      ],
+      "flexNote": "Can it significantly boost Shalom's damage out? Yes -> It goes on the team.<br/><br/>At this investment it can also be a great idea to just have 2L on the team for that extra bit of boss killing, waveclearing and fat 28% damage taken increase, which really makes the team so much more comfortable to play. Just beware of breaks."
+    },
+    {
+      "rank": "S",
+      "name": "2LS",
+      "type": "magic",
+      "difficulty": 3,
+      "sinners": [
+        { "id": "luviaray", "tag": "Main DPS<br/>Enabler" },
+        { "id": "lamia", "tag": "Waveclear<br/>Enabler", "shackles": "S2" },
+        { "id": "serpent", "tag": "Sub DPS<br/>Sub Waveclear" }
+      ],
+      "note": "This time around Lamia struggles with killing off the elites, and Luvia struggles with killing off the boss in time to help. So 2L is finally reaching the 3x build stage that teams like 3E and Coq teams have been sitting at for a while. The best 3rd DPS here is by far Serpent (not counting Shalom), who adds amazing elite killing potential while being able to contribute a significant amount of boss damage, not to mention loving Last Stand. With any other DPS this team falls to S tier.",
+      "pro": "Very balanced (waveclear/elite control/boss damage)",
+      "con": "AC",
+      "flex": [
+        { "id": "hecate" },
+        { "id": "joan", "budget": true },
+        { "id": "raven" },
+        { "id": "mrfox", "budget": true },
+        { "id": "ladypearl" },
+        { "id": "owo" },
+        { "id": "cabernet" },
+        { "id": "eve" },
+        { "id": "labyrinth", "budget": true },
+        { "id": "che", "budget": true }
+      ],
+      "flexNote": "AOE amp is absolutely amazing, (Cabernet, owo, Raven, Hecate, Fox, Joan) all work amazingly. The main thing to watch out for is breaks."
+    },
+    {
+      "rank": "S",
+      "name": "S1-3E",
+      "type": "magic",
+      "difficulty": 2,
+      "sinners": [
+        { "id": "eleven", "tag": "Hypercarry", "shackles": "S1" },
+        { "id": "eve", "tag": "Enabler", "shackles": "S1" },
+        { "id": "enfer", "tag": "Enabler", "shackles": "S0" }
+      ],
+      "note": "Map design really punishes 3E, Eleven cannot handle both the left and right hand side efficiently. However, because of the wonders of Shackles, this variation has so much damage they can annihilate the right hand side almost instantly... Which let's them focus their efforts to clearing the left hand side through a bit of Eve bear stalling and stray Eleven ultis.",
+      "pro": "Broken",
+      "con": "Relies on unintuitive interactions (Snapshot, PtN Summons).",
+      "flex": [
+        { "id": "lamia" },
+        { "id": "serpent" },
+        { "id": "cabernet" },
+        { "id": "raven" },
+        { "id": "owo" },
+        { "id": "joan", "budget": true },
+        { "id": "labyrinth", "budget": true },
+        { "id": "hecate" },
+        { "id": "dudu" }
+      ],
+      "flexNote": "Rounding out this squad with a waveclearer greatly eases the tension of the stage, Lamia is great for this as she is essentially a place and forget consistent waveclearer. Otherwise, we are still just aiming to make Eleven as strong as possible through amps (Cab, owo, Hecate). Laby can be a solid consideration in order to deal with the cores in the stage, allowing you to save Enfer and Eleven to be used in conjuction with slams."
+    },
+    {
+      "rank": "A",
+      "name": "2L",
+      "type": "magic",
+      "difficulty": 3,
+      "sinners": [
+        { "id": "luviaray", "tag": "Main DPS<br/>Enabler" },
+        { "id": "lamia", "tag": "Waveclear<br/>Enabler", "shackles": "S2" },
+        { "id": "flex", "tag": "Sub DPS" }
+      ],
+      "note": "This time around Lamia struggles with killing off the elites, and Luvia struggles with killing off the boss in time to help. So 2L is finally reaching the 3x build stage that teams like 3E and Coq teams have been sitting at for a while. If Serpent is unavailable, Raven & Joan should be the next best things. Allowing us to force the elites to core reveal, and providing damage and amp for Luvia to handle the boss.",
+      "pro": "Very balanced (waveclear/elite control/boss damage)",
+      "con": "AC",
+      "flex": [
+        { "id": "joan", "budget": true },
+        { "id": "raven" },
+        { "id": "hecate" },
+        { "id": "mrfox", "budget": true },
+        { "id": "ladypearl" },
+        { "id": "owo" },
+        { "id": "cabernet" },
+        { "id": "labyrinth", "budget": true },
+        { "id": "che", "budget": true },
+        { "id": "lynn", "budget": true }
+      ],
+      "flexNote": "The main thing you are looking for is a way to force the elites to reveal their cores (Raven, Joan, Eleven (Unsure if sufficient alone)). After that, your priority should be to ensure enough boss damage with amps (Mr. Fox, Cabernet)"
+    },
+    {
+      "rank": "C",
+      "name": "3E",
+      "type": "magic",
+      "difficulty": 5,
+      "sinners": [
+        { "id": "eleven", "tag": "Hypercarry", "shackles": "S0" },
+        { "id": "eve", "tag": "Enabler", "shackles": "S0" },
+        { "id": "enfer", "tag": "Enabler", "shackles": "S0" }
+      ],
+      "note": "Map design really punishes 3E, Eleven cannot handle both the left and right hand side efficiently. This variation cannot hide behind shackles and it shows, their weaknesses really get exposed here. Needing help in almost all departments (waveclearing left hand side & dealing sufficient boss damage).",
+      "pro": "Good Elite Control",
+      "con": "Relies on unintuitive interactions (Snapshot, Fear-Chain, PtN Summons). \"Low breaks\" (saving it for fear chain). Awkward left side control",
+      "flex": [
+        { "id": "owo" },
+        { "id": "serpent" },
+        { "id": "lamia" },
+        { "id": "raven" },
+        { "id": "cabernet" },
+        { "id": "hecate" },
+        { "id": "joan", "budget": true },
+        { "id": "labyrinth", "budget": true }
+      ],
+      "flexNote": "Rounding out this squad with a waveclearer (Lamia, Serpent, Joan, Pacassi) greatly eases the tension of the stage. Here it is recommended to add something which also has the option of being moved the right side to support (Lamia, Serpent).<br/><br/>Otherwise, we are still just aiming to make Eleven as strong as possible through amps (Cab, owo, Hecate).<br/><br/>Laby can be a solid consideration in order to deal with the cores in the stage, allowing you to save Enfer and Eleven to be used in conjuction with slams."
+    },
+    {
+      "rank": "D",
+      "name": "Coquelic",
+      "type": "magic",
+      "sinners": [
+        { "id": "coquelic", "tag": "Main DPS", "shackles": "S0" },
+        { "id": "ladypearl", "tag": "Enabler" },
+        { "id": "pricilla", "tag": "Enabler" }
+      ],
+      "difficulty": 3,
+      "note": "While Pearl fixed some of Coq's awkwardness in Physical BFL, she unfortunately didn't do much in Magic. The added corebreak is very welcome, but overall the team's performance is still lacklustre. Having a hard time clearing any waves, the boss, or the elites. Since it only has 10 seconds to dish out it's damage, it needs to find a way to force the Elites' core reveals, kill the boss, kill the Elites, clean the adds, all within 10 seconds. Which is a tall order granted it struggles to kill the boss in the first place even when given the full 10 seconds (can AC to fix this). Not to mention, this team hates about 90% of the buffs in the pool.",
+      "pro": "True Damage",
+      "con": "Yes",
+      "flex": [
+        { "id": "serpent" },
+        { "id": "lamia" },
+        { "id": "matilda" },
+        { "id": "cabernet" },
+        { "id": "dudu" },
+        { "id": "owo" },
+        { "id": "labyrinth", "budget": true },
+        { "id": "che", "budget": true }
+      ],
+      "flexNote": "Serpent is so good this season. Being able to help out with waveclearing, elite killing and boss killing to great effect. <br/><br/>Alternatively however, you can just run Matilda and hope you will be able to dish out enough damage during the 10 seconds, to completely clear the stage. <br/><br/>The elites will be a huge problem if no Enemy HP debuff however. <br/><br/>Otherwise, amping Coq, to make the aforementioned strategy a reality is highly recommended."
+    },
+    {
+      "rank": "S",
+      "type": "flex",
+      "sinners": [
+        {
+          "id": "cabernet",
+          "shackles": "S0",
+          "note": "AOE amp (ATK increase) makes her an absolute beast."
+        },
+        {
+          "id": "owo",
+          "shackles": "S0",
+          "note": "Crit Team facilitator. Natural 2x block is a very needed Firebather counter. <br/><br/>Attack & Damage increases are great.<br/><br/> Comes with 2x 3x3 breaks, which is valuable against Magic Elites."
+        },
+        {
+          "id": "labyrinth",
+          "note": "Destroys Physical Boss. Not as insane in Magic, but still an amazing asset to improve teambuilding freedom and Heartache applier <br/><br/>Gains the budget tag if used in Magic."
+        }
+      ]
+    },
+    {
+      "rank": "A",
+      "type": "flex",
+      "sinners": [
+        {
+          "id": "hecate",
+          "note": "(Magic)<br/><br/>Firebather has high MR, making Hecate's Magic Pen a valuable asset!<br/><br/>Also finally has a reason to unlock Nightmare in order to force Firebather to reveal cores. (Falls in rank if paired with Eve or owo)."
+        },
+        {
+          "id": "raven",
+          "note": "(Magic)<br/><br/>2x Breaks on Boss, possibility to help force elite core reveals, all while amping your overall damage and dealing very good damage by herself. Very strong."
+        },
+        {
+          "id": "ladypearl",
+          "note": "(2LS/Coq/3E)<br/><br/>Providing Normal Attack increase in an AOE area. Global Attack Speed increase. 2x on demand break. Just so much utility in this unit, which makes her an incredibly amper even outside Coq's team. <br/><br/> Overall, she is still a bit more niche than her advesaries, so just keep that in mind when seeing her ranking here."
+        }
+      ]
+    },
+    {
+      "rank": "B",
+      "type": "flex",
+      "sinners": [
+        {
+          "id": "joan",
+          "budget": true,
+          "note": "(Magic only)<br/><br/> Cheap Magic Resist Shred."
+        },
+        {
+          "id": "enfer",
+          "note": "Only really good when paired with hypercarries (Eleven, Mantis, Deren, Shalom). When using multiple DPS, value falls a lot. ECB also got hit a bit by Heartache's introduction. (Though, she is a fine applier of the CB herself, usually just means you are losing out on Heartache amp on Elites)"
+        },
+        {
+          "id": "eve",
+          "note": "Still a strong amp option in general. However she obviously truly shines when used in conjunction with summons.<br/><br/>Her amp is fairly respectable and omni-present, and her bear is a much welcome bit of utility because of Firebather."
+        }
+      ]
+    },
+    {
+      "rank": "C",
+      "type": "flex",
+      "sinners": [
+        {
+          "id": "che",
+          "budget": true,
+          "note": "Che is still Che. Absolutely solid choice.<br/><br/> Can even run Inversion Slash in Magic to contribute 2x break on boss, and set-up Elites for break afterwards. All while amping multiple targets' damage on the boss."
+        },
+        {
+          "id": "mrfox",
+          "budget": true,
+          "note": "P2 1171<br/><br/> Gains more value the more DPS your team is using (like 2LS). If using a Hypercarry set-up, value falls."
+        }
+      ]
+    },
+    {
+      "rank": "D",
+      "type": "flex",
+      "sinners": [
+        {
+          "id": "hamel",
+          "note": "Not amazing with her amp, but still serviceable. Main argument for bringing is to artificially lower the survival checks "
+        },
+        {
+          "id": "mrfox",
+          "budget": true,
+          "note": "P2 1171<br/><br/> Gains more value the more DPS your team is using (like 2LS). If using a Hypercarry set-up, value falls."
+        }
+      ]
+    }
+  ]
+}
