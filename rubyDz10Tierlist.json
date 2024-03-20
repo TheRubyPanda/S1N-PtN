@@ -33,7 +33,7 @@
     "Straight forward team. Minimal micro or game knowledge required.",
     "Somewhat unintuitive routing setups should be expected.",
     "Animation Cancelling should be expected.",
-    "Very unintuitive routing setups should be expected ",
+    "Very unintuitive routing setups or tight execution windows should be expected.",
     "Syncronized Animation Cancelling and/or tight execution windows, in addition to potential game knowledge checks should be expected."
   ],
   "introLeft": "This tier list is intended to be used as an overview for the comps used in the current Dark Zone season. The core members of a comp have been ranked based off of their sole capabilities. When combined with other flex options, the tier may change.\nLimited Sinners have not been added as a flex option due to their rarity and strength as they are likely to overshadow the main compositions and alter how they are used. It is assumed that they will almost always be a good option to use if you have them.",
@@ -256,14 +256,14 @@
       "rank": "S",
       "name": "2LS",
       "type": "magic",
-      "difficulty": 3,
+      "difficulty": 4,
       "sinners": [
         { "id": "luviaray", "tag": "Main DPS<br/>Enabler" },
         { "id": "lamia", "tag": "Waveclear<br/>Enabler", "shackles": "S2" },
         { "id": "serpent", "tag": "Sub DPS<br/>Sub Waveclear" }
       ],
       "note": "This time around Lamia struggles with killing off the elites, and Luvia struggles with killing off the boss in time to help. So 2L is finally reaching the 3x build stage that teams like 3E and Coq teams have been sitting at for a while. The best 3rd DPS here is by far Serpent (not counting Shalom), who adds amazing elite killing potential while being able to contribute a significant amount of boss damage, not to mention loving Last Stand. With any other DPS this team falls to S tier.",
-      "pro": "Very balanced (waveclear/elite control/boss damage)",
+      "pro": "Very balanced (Waveclear/Elite Control/Boss damage)",
       "con": "AC",
       "flex": [
         { "id": "hecate" },
@@ -309,14 +309,14 @@
       "rank": "A",
       "name": "2L",
       "type": "magic",
-      "difficulty": 3,
+      "difficulty": 4,
       "sinners": [
         { "id": "luviaray", "tag": "Main DPS<br/>Enabler" },
         { "id": "lamia", "tag": "Waveclear<br/>Enabler", "shackles": "S2" },
         { "id": "flex", "tag": "Sub DPS" }
       ],
       "note": "This time around Lamia struggles with killing off the elites, and Luvia struggles with killing off the boss in time to help. So 2L is finally reaching the 3x build stage that teams like 3E and Coq teams have been sitting at for a while. If Serpent is unavailable, Raven & Joan should be the next best things. Allowing us to force the elites to core reveal, and providing damage and amp for Luvia to handle the boss.",
-      "pro": "Very balanced (waveclear/elite control/boss damage)",
+      "pro": "Very balanced (Waveclear/Elite Control/Boss damage)",
       "con": "AC",
       "flex": [
         { "id": "joan", "budget": true },
@@ -330,7 +330,7 @@
         { "id": "che", "budget": true },
         { "id": "lynn", "budget": true }
       ],
-      "flexNote": "The main thing you are looking for is a way to force the elites to reveal their cores (Raven, Joan, Eleven (Unsure if sufficient alone)). After that, your priority should be to ensure enough boss damage with amps (Mr. Fox, Cabernet)"
+      "flexNote": "The main thing you are looking for is a way to force the elites to reveal their cores (Raven, Joan, Orphan Eleven (not confirmed)). After that, your priority should be to ensure enough boss damage with amps (Mr. Fox, Cabernet, owo)"
     },
     {
       "rank": "C",
@@ -426,8 +426,7 @@
       "sinners": [
         {
           "id": "joan",
-          "budget": true,
-          "note": "(Magic only)<br/><br/> Cheap Magic Resist Shred."
+          "note": "(Magic only)<br/><br/> Magic Resist Shred. Can also be used to help deal with Elites."
         },
         {
           "id": "enfer",
