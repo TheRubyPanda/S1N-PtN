@@ -236,6 +236,7 @@
       "pro": "Windshield Wiper",
       "con": "Limited Sinner",
       "flex": [
+        { "id": "serpent" },
         { "id": "cabernet" },
         { "id": "enfer" },
         { "id": "joan", "budget": true },
@@ -250,7 +251,7 @@
         { "id": "labyrinth", "budget": true },
         { "id": "che", "budget": true }
       ],
-      "flexNote": "Can it significantly boost Shalom's damage out? Yes -> It goes on the team.<br/><br/>At this investment it can also be a great idea to just have 2L on the team for that extra bit of boss killing, waveclearing and fat 28% damage taken increase, which really makes the team so much more comfortable to play. Just beware of breaks."
+      "flexNote": "Can it significantly boost Shalom's damage out? Yes -> It goes on the team.<br/><br/>At this investment it can also be a great idea to just have 2L on the team for that extra bit of boss killing, waveclearing and fat 28% damage taken increase, which really makes the team so much more comfortable to play.  Just beware of breaks. <br/><br/> Similar arguments present themselves for Serpent who is OP here."
     },
     {
       "rank": "S",
