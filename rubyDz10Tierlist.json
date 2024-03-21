@@ -32,9 +32,9 @@
   "difficulty": [
     "Straight forward team. Minimal micro or game knowledge required.",
     "Somewhat unintuitive routing setups should be expected.",
-    "Animation Cancelling should be expected.",
-    "Very unintuitive routing setups or tight execution windows should be expected.",
-    "Syncronized Animation Cancelling and/or tight execution windows, in addition to potential game knowledge checks should be expected."
+    "Animation Cancelling (Sync or Single) should be expected.",
+    "Tight execution windows should be expected.",
+    "Very unintuitive routing setups and tight execution windows, in addition to potential game knowledge checks should be expected."
   ],
   "introLeft": "This tier list is intended to be used as an overview for the comps used in the current Dark Zone season. The core members of a comp have been ranked based off of their sole capabilities. When combined with other flex options, the tier may change.\nLimited Sinners have not been added as a flex option due to their rarity and strength as they are likely to overshadow the main compositions and alter how they are used. It is assumed that they will almost always be a good option to use if you have them.",
   "introRight": "Multiple core compositions can, and should sometimes, also be used together (i.e. The bleed team can be used with Deren), but for the purposes of this ranking, the core compositions are ranked separately.\n Other Sinners can also be used as Flex options.\nAll Sinners are at maximum recommended investment. Check Sinner pages for recommendations.",
