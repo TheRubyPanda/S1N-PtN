@@ -1,4 +1,7 @@
 {
+  "guides": [
+    {"title": "Rebel - Mania (Physical Boss)", "url": "https://therubypanda.github.io/S1N-PtN/RebelGuide.md"}
+  ],
   "roles": [
     {
       "role": "Main DPS",
