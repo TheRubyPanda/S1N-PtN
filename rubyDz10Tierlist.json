@@ -1,6 +1,7 @@
 {
   "guides": [
-    {"title": "Rebel - Mania (Physical Boss)", "url": "https://therubypanda.github.io/S1N-PtN/RebelGuide.md"}
+    {"title": "Rebel - Mania (Physical Boss)", "url": "https://therubypanda.github.io/S1N-PtN/RebelGuide.md"},
+    {"title": "Firebather - Deteriorated (Magic Boss)", "url": "https://therubypanda.github.io/S1N-PtN/FirebatherGuide.md"}
   ],
   "roles": [
     {
@@ -104,6 +105,7 @@
       "note": "Nox can handle all the waveclearing this time around, and together with Laby they practically solo the entire boss' HP bar.",
       "pro": "Cheap and easily upgradeable",
       "con": "Laby Chain Routing (Look on YT if unsure)",
+      "potestas": ["empower"],
       "flex": [
         { "id": "mrfox" },
         { "id": "che", "budget": true },
@@ -138,6 +140,7 @@
       "note": "The all in one package. Amazing boss killing potential (Dreya ults), and waveclearing capabilities (Dreya ECB), only \"concern\" is breaks (hi Laby).",
       "pro": "OP.",
       "con": "\"Expensive\"",
+      "potestas": ["empower"],
       "flex": [
         { "id": "labyrinth" },
         { "id": "donald" },
@@ -165,6 +168,7 @@
       "note": "Team will naturally be able to function without OwO, but the Crit Rate and ATK/DMG Amps are annoying to pass up on.",
       "pro": "Deren.",
       "con": "Limited Sinner.",
+      "potestas": ["empower"],
       "flex": [
         { "id": "labyrinth" },
         { "id": "mantis" },
@@ -190,6 +194,7 @@
       "note": "Pearl is an amazing addition to the Coq team, as the waveclear is now much more reliable and she brings 2x much needed breaks, both of which were problems before (waveclear moreso than breaks cuz Laby).",
       "pro": "True Damage, Insane Boss Damage",
       "con": "",
+      "potestas": ["laststand"],
       "flex": [
         { "id": "labyrinth" },
         { "id": "donald" },
@@ -216,6 +221,7 @@
       "note": "Moved up from A, due to boss being much easier to kill this time around. (Thanks Laby)",
       "pro": "Simple to play",
       "con": "",
+      "potestas": ["empower"],
       "flex": [
         { "id": "labyrinth" },
         { "id": "eve" },
@@ -239,6 +245,7 @@
       "note": "Shalom being Shalom.<br/><br/> The remaining slots can be filled with virtually any meta supports. However, it's also completely fine to slap on something like 2L, since that's a 28% damage taken increase, in addition to helping out with waveclearing and boss killing for ease of play.",
       "pro": "Windshield Wiper",
       "con": "Limited Sinner",
+      "potestas": ["empower", "laststand"],
       "flex": [
         { "id": "serpent" },
         { "id": "cabernet" },
@@ -270,6 +277,7 @@
       "note": "This time around Lamia struggles with killing off the elites, and Luvia struggles with killing off the boss in time to help. So 2L is finally reaching the 3x build stage that teams like 3E and Coq teams have been sitting at for a while. The best 3rd DPS here is by far Serpent (not counting Shalom), who adds amazing elite killing potential while being able to contribute a significant amount of boss damage, not to mention loving Last Stand. With any other DPS this team falls to S tier.",
       "pro": "Very balanced (Waveclear/Elite Control/Boss damage)",
       "con": "AC",
+      "potestas": ["laststand"],
       "flex": [
         { "id": "hecate" },
         { "id": "joan", "budget": true },
@@ -294,9 +302,10 @@
         { "id": "eve", "tag": "Enabler", "shackles": "S1" },
         { "id": "enfer", "tag": "Enabler", "shackles": "S0" }
       ],
-      "note": "Map design really punishes 3E, Eleven cannot handle both the left and right hand side efficiently. However, because of the wonders of Shackles, this variation has so much damage they can annihilate the right hand side almost instantly... Which let's them focus their efforts to clearing the left hand side through a bit of Eve bear stalling and stray Eleven ultis.",
+      "note": "Map design really punishes 3E, Eleven cannot handle both the left and right hand side efficiently. However, because of the wonders of Shackles, this variation has so much damage they can annihilate the right hand side almost instantly... Which let's them focus their efforts to clearing the left hand side through a bit of Eve bear stalling and stray Eleven ultis.<br/><br/>Can technically also run Empower, but no reason for it, Last Stand is much simpler and straightforward.",
       "pro": "Broken",
       "con": "Relies on unintuitive interactions (Snapshot, PtN Summons).",
+      "potestas": ["laststand"],
       "flex": [
         { "id": "lamia" },
         { "id": "serpent" },
@@ -323,6 +332,7 @@
       "note": "This time around Lamia struggles with killing off the elites, and Luvia struggles with killing off the boss in time to help. So 2L is finally reaching the 3x build stage that teams like 3E and Coq teams have been sitting at for a while. If Serpent is unavailable, Raven & Joan should be the next best things. Allowing us to force the elites to core reveal, and providing damage and amp for Luvia to handle the boss.",
       "pro": "Very balanced (Waveclear/Elite Control/Boss damage)",
       "con": "AC",
+      "potestas": ["laststand"],
       "flex": [
         { "id": "joan", "budget": true },
         { "id": "raven" },
@@ -347,9 +357,10 @@
         { "id": "eve", "tag": "Enabler", "shackles": "S0" },
         { "id": "enfer", "tag": "Enabler", "shackles": "S0" }
       ],
-      "note": "Map design really punishes 3E, Eleven cannot handle both the left and right hand side efficiently. This variation cannot hide behind shackles and it shows, their weaknesses really get exposed here. Needing help in almost all departments (waveclearing left hand side & dealing sufficient boss damage).",
+      "note": "Map design really punishes 3E, Eleven cannot handle both the left and right hand side efficiently. This variation cannot hide behind shackles and it shows, their weaknesses really get exposed here. Needing help in almost all departments (waveclearing left hand side & dealing sufficient boss damage).<br/><br/>While it's possible to run Empower (and technically optimal), it's also the most difficult. Requiring precise Fear timings to not result in DPS loss.",
       "pro": "Good Elite Control",
       "con": "Relies on unintuitive interactions (Snapshot, Fear-Chain, PtN Summons). \"Low breaks\" (saving it for fear chain). Awkward left side control",
+      "potestas": ["laststand", "empower"],
       "flex": [
         { "id": "serpent" },
         { "id": "lamia" },
@@ -375,6 +386,7 @@
       "note": "While Pearl fixed some of Coq's awkwardness in Physical BFL, she unfortunately didn't do much in Magic. The added corebreak is very welcome, but overall the team's performance is still lacklustre. Having a hard time clearing any waves, the boss, or the elites. Since it only has 10 seconds to dish out it's damage, it needs to find a way to force the Elites' core reveals, kill the boss, kill the Elites, clean the adds, all within 10 seconds. Which is a tall order granted it struggles to kill the boss in the first place even when given the full 10 seconds (can AC to fix this). Not to mention, this team hates about 90% of the buffs in the pool.",
       "pro": "True Damage",
       "con": "Yes",
+      "potestas": ["laststand"],
       "flex": [
         { "id": "serpent" },
         { "id": "lamia" },
