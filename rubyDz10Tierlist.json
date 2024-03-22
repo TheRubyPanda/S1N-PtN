@@ -351,16 +351,16 @@
       "pro": "Good Elite Control",
       "con": "Relies on unintuitive interactions (Snapshot, Fear-Chain, PtN Summons). \"Low breaks\" (saving it for fear chain). Awkward left side control",
       "flex": [
-        { "id": "owo" },
         { "id": "serpent" },
         { "id": "lamia" },
+        { "id": "owo" },
         { "id": "raven" },
         { "id": "cabernet" },
         { "id": "hecate" },
         { "id": "joan", "budget": true },
         { "id": "labyrinth", "budget": true }
       ],
-      "flexNote": "Rounding out this squad with a waveclearer (Lamia, Serpent, Joan, Pacassi) greatly eases the tension of the stage. Here it is recommended to add something which also has the option of being moved the right side to support (Lamia, Serpent).<br/><br/>Otherwise, we are still just aiming to make Eleven as strong as possible through amps (Cab, owo, Hecate).<br/><br/>Laby can be a solid consideration in order to deal with the cores in the stage, allowing you to save Enfer and Eleven to be used in conjuction with slams."
+      "flexNote": "Rounding out this squad with a waveclearer (Serpent) greatly eases the tension of the stage. Here it is recommended to add something which also has the option of being moved the right side to support, Serpent feels a bit forced here, out of fear of not having enough damage (otherwise, can try Lamia).<br/><br/>Otherwise, we are still just aiming to make Eleven as strong as possible through amps (Cab, owo, Hecate).<br/><br/>Laby can be a solid consideration in order to deal with the cores in the stage, allowing you to save Enfer and Eleven to be used in conjuction with slams."
     },
     {
       "rank": "D",
