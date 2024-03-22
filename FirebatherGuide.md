@@ -22,7 +22,7 @@ Separated into Left and Right side.
 > Tip: You can dodge his AOE Firebomb by moving the targeted sinner.
 
 
-**Exotic Musician - Deteriorated** *(1x Wave 2)* - 3x Cores. Heals. Horrible Spawn Position (Marked O). The 3rd boss of the stage, and one of the highest priorities to break and kill as soon as possible, otherwise she will just keep healing the boss and undoing your work. If you have found yourself struggling to kill the boss, this woman is most likely the reason.
+**Exotic Musician - Deteriorated** *(1x Wave 2)* - 3x Cores. Heals. Horrible Spawn Position (Marked O). The 3rd boss of the stage, and one of the highest priorities to break and kill as soon as possible, otherwise she will just keep healing the boss and undoing your work. Also shows her cores around the 60% mark. If you have found yourself struggling to kill the boss, this woman is most likely the reason.
 > Tip: Kill her ASAP...
 
 
