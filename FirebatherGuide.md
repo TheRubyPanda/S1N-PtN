@@ -46,3 +46,13 @@ Make sure Lamia tags all the small adds (and all the Elites when she has the cha
 Amazing right-side control on this team. They do struggle a bit on waves 1 and 3, so it's recommended to bring someone to alleviate that pressure, however, it's not fully necessary (especially not at S1). This team just runs as it usually does, hyperbuff Eleven, break the boss, Eleven ECB, Fear Chain (can ignore if S1). 
 
 **Note:** If using S0 Eleven and Eve, Boss Damage can be quite tight even with good fear chaining, similarly, the Elites may survive. The absolute best addition here is Serpent (or Shalom obviously), who can compensate for the awkward waves 1 and 3 while fixing the general damage issues present on the boss and elites.
+
+### Additional Shalom Variations
+These comps were unranked due to using Shalom, but can still serve as inspiration.
+
+#### Crit Magic
+Ultimately a variation of Shalom Hypercarry (or 2L+).
+
+Shalom + Lamia + Luvia Ray + owo + Lynn + Flex.
+
+[Example Run](https://www.youtube.com/watch?v=oGL-ZkAxxkg)
