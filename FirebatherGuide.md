@@ -1,5 +1,5 @@
 # Firebather - Deteriorated (Magic Boss)
-## Difficulty Rating: C
+## Difficulty Rating: S
 
 ![FB](https://i.ibb.co/YDnJsLb/dnplayer-yxuh-DKt-Vl1.png)
 
