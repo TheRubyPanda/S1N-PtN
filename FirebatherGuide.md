@@ -4,13 +4,19 @@
 ![FB](https://i.ibb.co/YDnJsLb/dnplayer-yxuh-DKt-Vl1.png)
 
 ### Notable Mechanics
-*(!) means a mechanic to particularly watch out for*
-1. Commander **(!)** - Requires 2x Block!
-> Tip: Hecate ECB, Eve Bear, owo gain a lot of value because of this. However, if those are unavailable, a generic solution is to give a sinner the Crimebrands Depths of Restricted Area & Bulwark (both gold CBs), in order to tank him.
-2. Stomp **(!)** - Big Physical Damage hit, in addition to stun.
-> Tip: Move the tanking unit while he is performing this move to dodge it entirely! 
-3. Battle Frenzy **(!)** - After he has attacked (not counting Stomp) 5x times, he will reveal his cores and start spinning, attacking everything within his 3x3 (he can & may also still use Stomp).
-> Tip: After he has revealed his cores, move away your tanking unit. As long as he isn't being blocked, he won't attack you.
+*(!) means a mechanic to particularly watch out for*  
+
+1. Commander **(!)** - Requires 2x Block!  
+
+> Tip: Hecate ECB, Eve Bear, owo gain a lot of value because of this. However, if those are unavailable, a generic solution is to give a sinner the Crimebrands Depths of Restricted Area & Bulwark (both gold CBs), in order to tank him.  
+
+2. Stomp **(!)** - Big Physical Damage hit, in addition to stun.  
+
+> Tip: Move the tanking unit while he is performing this move to dodge it entirely!   
+
+3. Battle Frenzy **(!)** - After he has attacked (not counting Stomp) 5x times, he will reveal his cores and start spinning, attacking everything within his 3x3 (he can & may also still use Stomp).  
+
+> Tip: After he has revealed his cores, move away your tanking unit. As long as he isn't being blocked, he won't attack you.  
 
 ## Stage
 ![FBStage](https://i.ibb.co/Y7RQSqq/dnplayer-Ykbm-Fvz-AXc.jpg)
@@ -18,11 +24,13 @@
 Separated into Left and Right side.
 
 ### Enemies of Note
-**Fire Thrower - Deteriorated** *(1x Wave 2)* - 3x Cores. Global Attack Range. Big AOE damage. Horrible Spawn Position (Marked X). This guy is everything you should hate. He reveals his cores after his HP has dropped to around 60%, which is a lot of damage to ask for. Essentially a 2nd boss for the stage.
+**Fire Thrower - Deteriorated** *(1x Wave 2)* - 3x Cores. Global Attack Range. Big AOE damage. Horrible Spawn Position (Marked X). This guy is everything you should hate. He reveals his cores after his HP has dropped to around 60%, which is a lot of damage to ask for. Essentially a 2nd boss for the stage.  
+
 > Tip: You can dodge his AOE Firebomb by moving the targeted sinner.
 
 
-**Exotic Musician - Deteriorated** *(1x Wave 2)* - 3x Cores. Heals. Horrible Spawn Position (Marked O). The 3rd boss of the stage, and one of the highest priorities to break and kill as soon as possible, otherwise she will just keep healing the boss and undoing your work. Also shows her cores around the 60% mark. If you have found yourself struggling to kill the boss, this woman is most likely the reason.
+**Exotic Musician - Deteriorated** *(1x Wave 2)* - 3x Cores. Heals. Horrible Spawn Position (Marked O). The 3rd boss of the stage, and one of the highest priorities to break and kill as soon as possible, otherwise she will just keep healing the boss and undoing your work. Also shows her cores around the 60% mark. If you have found yourself struggling to kill the boss, this woman is most likely the reason.  
+
 > Tip: Kill her ASAP...
 
 
