@@ -214,9 +214,9 @@
       "type": "physical",
       "difficulty": 2,
       "sinners": [
-        { "id": "nox", "tag": "Sub-waveclear" },
+        { "id": "nox", "tag": "Sub-waveclear<br/>Sub DPS" },
         { "id": "mcqueen", "tag": "Waveclear" },
-        { "id": "rahu", "tag": "Enabler" }
+        { "id": "vanilla", "tag": "Enabler<br/>Sub DPS" }
       ],
       "note": "Moved up from A, due to boss being much easier to kill this time around. (Thanks Laby)",
       "pro": "Simple to play",
@@ -230,7 +230,7 @@
         { "id": "donald", "budget": true },
         { "id": "lamia" }
       ],
-      "flexNote": "Add Laby because she is broken on this boss (if you let her chain ultis).<br/><br/>Damage taken amps are your best friend (Che, Hamel, Heartache CB etc.)<br/><br/>S1 Eve is also absolutely amazing, and should be a strong consideration if you have her (S0 is more compareable to other options).<br/><br/>Donald + Lamia are a package deal. To this end, it's fine leaving Donald at P2, since we just need him to apply Electrocution, and allow McQueen to maximize the number of ults she gets during the break.<br/><br/>Demon & Demolia both serve as useable downgrades to Rahu."
+      "flexNote": "Add Laby because she is broken on this boss (if you let her chain ultis).<br/><br/>Damage taken amps are your best friend (Che, Hamel, Heartache CB etc.)<br/><br/>S1 Eve is also absolutely amazing, and should be a strong consideration if you have her (S0 is more compareable to other options).<br/><br/>Donald + Lamia are a package deal. To this end, it's fine leaving Donald at P2, since we just need him to apply Electrocution, and allow McQueen to maximize the number of ults she gets during the break.<br/><br/>Rahu is close to equal with Vanilla, while Demon & Demolia both serve as useable downgrades."
     },
     {
       "rank": "S",
